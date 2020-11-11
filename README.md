@@ -1,4 +1,4 @@
-# Lavoro estivo 2019-20
+# Stay away
 
 - Sviluppatore: Davide Piccinini
 - Classe: 2°f
