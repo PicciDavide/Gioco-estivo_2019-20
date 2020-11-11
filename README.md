@@ -12,4 +12,4 @@
 ## Come installare
 
 - E' necessario installare: python 3.8.1. , pygame 1.9.6.
-- Che le immagini si trovino nella stessa cartella del programma.
+- Tutti i file siano nella stessa cartella
